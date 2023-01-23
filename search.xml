@@ -4,11 +4,36 @@
   
     
     <entry>
-      <title>网站开发日志</title>
-      <link href="/2023/01/08/2023-1-8/"/>
-      <url>/2023/01/08/2023-1-8/</url>
+      <title>Markdown语法速查表</title>
+      <link href="/2023/01/22/Markdown%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5%E8%A1%A8/"/>
+      <url>/2023/01/22/Markdown%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5%E8%A1%A8/</url>
       
-        <content type="html"><![CDATA[<h1 id="开发日志"><a href="#开发日志" class="headerlink" title="开发日志"></a>开发日志</h1><hr><h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><blockquote><ul><li>基于<strong>Hexo</strong>框架搭建</li><li>使用<strong>butterfly</strong>模板</li></ul></blockquote><h2 id="版本更新日志"><a href="#版本更新日志" class="headerlink" title="版本更新日志"></a>版本更新日志</h2><h3 id="1-00"><a href="#1-00" class="headerlink" title="1.00"></a>1.00</h3><p><del>网页</del><br>在线README.md在线预览<br><a href="https://imgse.com/i/pSZn2AU"><img src="https://s1.ax1x.com/2023/01/08/pSZn2AU.png" alt="pSZn2AU.png"></a></p><h3 id="2-00"><a href="#2-00" class="headerlink" title="2.00"></a>2.00</h3><p><del>使用hexo框架</del><br>敲了几个命令造出来的丑陋网页<br><a href="https://imgse.com/i/pSZnIj1"><img src="https://s1.ax1x.com/2023/01/08/pSZnIj1.png" alt="pSZnIj1.png"></a></p><blockquote><ul><li>完善了通用配置文件的个人信息：名字、描述词等</li><li>使用了极其丑陋的默认主题</li></ul></blockquote><h3 id="3-00"><a href="#3-00" class="headerlink" title="3.00"></a>3.00</h3><p>使用butterfly主题<br><a href="https://imgse.com/i/pSZnh9J"><img src="https://s1.ax1x.com/2023/01/08/pSZnh9J.png" alt="pSZnh9J.png"></a></p><blockquote><ul><li>页面美观程度大幅增加</li></ul></blockquote><h3 id="3-50"><a href="#3-50" class="headerlink" title="3.50"></a>3.50</h3><p>进一步完善配置文件内的功能：<br><a href="https://imgse.com/i/pSZnWh4"><img src="https://s1.ax1x.com/2023/01/08/pSZnWh4.png" alt="pSZnWh4.png"></a></p><blockquote><ul><li>本地搜索</li><li>边栏设置</li><li>运行时间、字数统计</li><li>顶栏菜单及页面</li></ul></blockquote><h3 id="3-75"><a href="#3-75" class="headerlink" title="3.75"></a>3.75</h3><p><a href="https://imgse.com/i/pSZnRNF"><img src="https://s1.ax1x.com/2023/01/08/pSZnRNF.png" alt="pSZnRNF.png"></a></p><blockquote><ul><li>完善社交卡片</li><li>完善归档和标签</li><li>完善图标、头像</li><li>完善文章封面</li><li>副标题打字效果</li><li>萌ICP备申请成功</li></ul></blockquote><h3 id="3-80"><a href="#3-80" class="headerlink" title="3.80"></a>3.80</h3><blockquote><ul><li>网站背景</li><li>首页背景</li></ul></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><table><thead><tr><th>元素</th><th>Markdown 语法</th></tr></thead><tbody><tr><td><a href="https://markdown.com.cn/basic-syntax/headings.html">标题（Heading）</a></td><td><code># H1## H2### H3</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/bold.html">粗体（Bold）</a></td><td><code>**bold text**</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/italic.html">斜体（Italic）</a></td><td><code>*italicized text*</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/blockquotes.html">引用块（Blockquote）</a></td><td><code>&gt; blockquote</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/ordered-lists.html">有序列表（Ordered List）</a></td><td><code>1. First item</code> <code>2. Second item</code> <code>3. Third item</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/unordered-lists.html">无序列表（Unordered List）</a></td><td><code>- First item- Second item- Third item</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/code.html">代码（Code）</a></td><td><code>code</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/horizontal-rules.html">分隔线（Horizontal Rule）</a></td><td><code>---</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/links.html">链接（Link）</a></td><td><code>[title](https://www.example.com)</code></td></tr><tr><td><a href="https://markdown.com.cn/basic-syntax/images.html">图片（Image）</a></td><td><code>![alt text](image.jpg)</code></td></tr></tbody></table><h2 id="扩展语法"><a href="#扩展语法" class="headerlink" title="#扩展语法"></a><a href="https://markdown.com.cn/cheat-sheet.html#%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95">#</a>扩展语法</h2><table><thead><tr><th>元素</th><th>Markdown 语法</th></tr></thead><tbody><tr><td><a href="https://markdown.com.cn/extended-syntax/tables.html">表格（Table）</a></td><td>&#96;</td></tr><tr><td><a href="https://markdown.com.cn/extended-syntax/fenced-code-blocks.html">代码块（Fenced Code Block）</a></td><td><code>&#123; &quot;firstName&quot;: &quot;John&quot;, &quot;lastName&quot;: &quot;Smith&quot;, &quot;age&quot;: 25&#125;</code></td></tr><tr><td><a href="https://markdown.com.cn/extended-syntax/footnotes.html">脚注（Footnote）</a></td><td>Here’s a sentence with a footnote. <code>[^1]</code> <code>[^1]</code>: This is the footnote.</td></tr><tr><td><a href="https://markdown.com.cn/extended-syntax/heading-ids.html">标题编号（Heading ID）</a></td><td>&#96;### My Great Heading</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 速查表 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 速查表 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站开发日志</title>
+      <link href="/2023/01/08/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+      <url>/2023/01/08/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开发日志"><a href="#开发日志" class="headerlink" title="开发日志"></a>开发日志</h1><hr><h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><blockquote><ul><li>基于<strong>Hexo</strong>框架搭建</li><li>使用<strong>butterfly</strong>模板</li></ul></blockquote><h2 id="版本更新日志"><a href="#版本更新日志" class="headerlink" title="版本更新日志"></a>版本更新日志</h2><h3 id="1-00"><a href="#1-00" class="headerlink" title="1.00"></a>1.00</h3><p><del>网页</del><br>在线README.md在线预览<br><a href="https://imgse.com/i/pSZn2AU"><img src="https://s1.ax1x.com/2023/01/08/pSZn2AU.png" alt="pSZn2AU.png"></a></p><hr><h3 id="2-00"><a href="#2-00" class="headerlink" title="2.00"></a>2.00</h3><p><del>使用hexo框架</del><br>敲了几个命令造出来的丑陋网页<br><a href="https://imgse.com/i/pSZnIj1"><img src="https://s1.ax1x.com/2023/01/08/pSZnIj1.png" alt="pSZnIj1.png"></a></p><blockquote><ul><li>完善了通用配置文件的个人信息：名字、描述词等</li><li>使用了极其丑陋的默认主题</li></ul></blockquote><hr><h3 id="3-00"><a href="#3-00" class="headerlink" title="3.00"></a>3.00</h3><h2 id="使用butterfly主题-gt-页面美观程度大幅增加"><a href="#使用butterfly主题-gt-页面美观程度大幅增加" class="headerlink" title="使用butterfly主题&gt; - 页面美观程度大幅增加"></a>使用butterfly主题<br><a href="https://imgse.com/i/pSZnh9J"><img src="https://s1.ax1x.com/2023/01/08/pSZnh9J.png" alt="pSZnh9J.png"></a><br>&gt; - 页面美观程度大幅增加</h2><h3 id="3-50"><a href="#3-50" class="headerlink" title="3.50"></a>3.50</h3><p>进一步完善配置文件内的功能：<br><a href="https://imgse.com/i/pSZnWh4"><img src="https://s1.ax1x.com/2023/01/08/pSZnWh4.png" alt="pSZnWh4.png"></a></p><blockquote><ul><li>本地搜索</li><li>边栏设置</li><li>运行时间、字数统计</li><li>顶栏菜单及页面</li></ul></blockquote><hr><h3 id="3-75"><a href="#3-75" class="headerlink" title="3.75"></a>3.75</h3><h2 id="gt-完善社交卡片-gt-完善归档和标签-gt-完善图标、头像-gt-完善文章封面-gt-副标题打字效果-gt-萌ICP备申请成功"><a href="#gt-完善社交卡片-gt-完善归档和标签-gt-完善图标、头像-gt-完善文章封面-gt-副标题打字效果-gt-萌ICP备申请成功" class="headerlink" title="&gt; - 完善社交卡片&gt; - 完善归档和标签&gt; - 完善图标、头像&gt; - 完善文章封面&gt; - 副标题打字效果&gt; - 萌ICP备申请成功"></a><a href="https://imgse.com/i/pSZnRNF"><img src="https://s1.ax1x.com/2023/01/08/pSZnRNF.png" alt="pSZnRNF.png"></a><br>&gt; - 完善社交卡片<br>&gt; - 完善归档和标签<br>&gt; - 完善图标、头像<br>&gt; - 完善文章封面<br>&gt; - 副标题打字效果<br>&gt; - 萌ICP备申请成功</h2><h3 id="3-80"><a href="#3-80" class="headerlink" title="3.80"></a>3.80</h3><blockquote><ul><li>网站背景</li><li>首页背景</li></ul></blockquote>]]></content>
       
       
       <categories>
